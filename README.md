@@ -1,4 +1,3 @@
-
 # 🌍 Global Superstore Power BI Dashboard
 
 ## 📁 Project Overview
