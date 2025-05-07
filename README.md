@@ -155,26 +155,7 @@ Analyze shipping cost distribution across order priority, delivery mode, product
 - Added **Page Navigator** buttons for seamless interactivity across all dashboards.
 
 ---
-#### 📈 Insights:
-- High-cost deliveries concentrated in `Same Day` and `Second Class` modes
-- `Furniture` and `Technology` incur highest average shipping costs
-- `Critical` and `High` priority orders = 20–30% higher shipping cost
-- Opportunities to cut costs by encouraging `Standard Class` shipments
 
-#### ✅ Recommendations:
-- Promote cost-effective ship modes
-- Optimize shipping for high-cost markets (e.g., LATAM, EU)
-- Offer incentives for low-priority, bulk deliveries
-
----
-
-
-
-## 📝 One-Page Insight Summary
-
-> Coming soon: Will add a summary page featuring high-level KPIs, key trends, and strategic insights across all dashboards for executive reporting.
-
----
 
 ## 🚀 Tools & Skills Used
 
